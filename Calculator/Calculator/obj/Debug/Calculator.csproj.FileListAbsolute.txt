@@ -1,0 +1,16 @@
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\Bin\Debug\ApplicationIcon.png
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\Bin\Debug\Background.png
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\Bin\Debug\Calculator.dll
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\Bin\Debug\Calculator.pdb
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\Bin\Debug\AppManifest.xaml
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\Bin\Debug\Calculator.xap
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\Bin\Debug\CalculatorLib.dll
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\Bin\Debug\CalculatorLib.pdb
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\obj\Debug\App.g.i.cs
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\obj\Debug\MainPage.g.i.cs
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\obj\Debug\GamePage.g.i.cs
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.g.resources
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.dll
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\Calculator\obj\Debug\XapCacheFile.xml

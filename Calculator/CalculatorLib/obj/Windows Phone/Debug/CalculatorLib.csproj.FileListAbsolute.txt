@@ -1,0 +1,6 @@
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\CalculatorLib\bin\Windows Phone\Debug\CalculatorLib.dll
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\CalculatorLib\bin\Windows Phone\Debug\CalculatorLib.pdb
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\CalculatorLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\CalculatorLib\obj\Windows Phone\Debug\CalculatorLib.dll
+c:\users\jdindi\documents\visual studio 2010\Projects\Calculator\Calculator\CalculatorLib\obj\Windows Phone\Debug\CalculatorLib.pdb
+C:\Users\jdindi\Documents\Visual Studio 2010\Projects\Calculator\Calculator\CalculatorLib\obj\Windows Phone\Debug\CalculatorLib.csprojResolveAssemblyReference.cache
